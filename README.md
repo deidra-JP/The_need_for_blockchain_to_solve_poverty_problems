@@ -1,1 +1,1 @@
-# The_need_for_blockchain
+# A summary of thoughts about the need for blockchain 
